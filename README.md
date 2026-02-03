@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sameera Gundlur Shaik 👋
 
-<!--
-**SameeraGundlurShaik/SameeraGundlurShaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst focused on transforming raw data into meaningful insights.
 
-Here are some ideas to get you started:
+## 🔹 Skills
+- Power BI (DAX, Data Modeling, Interactive Dashboards)
+- SQL (Basics)
+- Python (Pandas, NumPy)
+- Excel & Google Sheets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Projects
+- Retail Profit Optimization Dashboard
+- Sales Performance Dashboard
+
+## 🔹 Currently Learning
+- Advanced DAX
+- Business analytics use cases
+- Real-world datasets
+
+## 📫 Connect with me
+- LinkedIn: (add your LinkedIn URL)
