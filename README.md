@@ -18,4 +18,4 @@
 - Real-world datasets
 
 ## 📫 Connect with me
-- LinkedIn: (add your LinkedIn URL)
+- LinkedIn: https://www.linkedin.com/in/sameera-gundlurshaik-a74365306/
